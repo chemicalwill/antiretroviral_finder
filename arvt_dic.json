@@ -1,0 +1,510 @@
+{
+    "aptivus": [
+        {
+            "on hand": false,
+            "tipranavir": 250
+        }
+    ],
+    "atripla": [
+        {
+            "efavirenz": 600,
+            "emtricitabine": 200,
+            "on hand": true,
+            "tenofovir disoproxil fumarate": 300
+        }
+    ],
+    "baraclude": [
+        {
+            "entecavir": 0.5,
+            "on hand": true
+        },
+        {
+            "entecavir": 1,
+            "on hand": false
+        }
+    ],
+    "biktarvy": [
+        {
+            "bictegravir": 50,
+            "emtricitabine": 200,
+            "on hand": true,
+            "tenofovir alafenamide fumarate": 25
+        }
+    ],
+    "cimduo": [
+        {
+            "lamivudine": 300,
+            "on hand": false,
+            "tenofovir disoproxil fumarate": 300
+        }
+    ],
+    "combivir": [
+        {
+            "lamivudine": 150,
+            "on hand": false,
+            "zidovudine": 300
+        }
+    ],
+    "complera": [
+        {
+            "emtricitabine": 200,
+            "on hand": false,
+            "rilpivirine": 25,
+            "tenofovir disoproxil fumarate": 300
+        }
+    ],
+    "crixivan": [
+        {
+            "indinavir": 200,
+            "on hand": false
+        },
+        {
+            "indinavir": 400,
+            "on hand": false
+        }
+    ],
+    "delstrigo": [
+        {
+            "doravirine": 100,
+            "lamivudine": 300,
+            "on hand": false,
+            "tenofovir disoproxil fumarate": 300
+        }
+    ],
+    "descovy": [
+        {
+            "emtricitabine": 200,
+            "on hand": true,
+            "tenofovir alafenamide": 25
+        }
+    ],
+    "dovato": [
+        {
+            "dolutegravir": 50,
+            "lamivudine": 300,
+            "on hand": false
+        }
+    ],
+    "edurant": [
+        {
+            "on hand": true,
+            "rilpivirine": 25
+        }
+    ],
+    "emtriva": [
+        {
+            "emtricitabine": 200,
+            "on hand": true
+        }
+    ],
+    "epclusa": [
+        {
+            "on hand": false,
+            "sofosbuvir": 200,
+            "velpatasvir": 50
+        },
+        {
+            "on hand": false,
+            "sofosbuvir": 400,
+            "velpatasvir": 100
+        }
+    ],
+    "epivir": [
+        {
+            "lamivudine": 100,
+            "on hand": true
+        },
+        {
+            "lamivudine": 150,
+            "on hand": true
+        },
+        {
+            "lamivudine": 300,
+            "on hand": false
+        }
+    ],
+    "epzicom": [
+        {
+            "abacavir": 600,
+            "lamivudine": 300,
+            "on hand": false
+        }
+    ],
+    "evotaz": [
+        {
+            "atazanavir": 300,
+            "cobicistat": 150,
+            "on hand": false
+        }
+    ],
+    "fortovase": [
+        {
+            "on hand": false,
+            "saquinavir": 200
+        },
+        {
+            "on hand": false,
+            "saquinavir": 500
+        }
+    ],
+    "genvoya": [
+        {
+            "cobicistat": 150,
+            "elvitegravir": 150,
+            "emtricitabine": 200,
+            "on hand": true,
+            "tenofovir alafenamide": 10
+        }
+    ],
+    "harvoni": [
+        {
+            "ledipasvir": 45,
+            "on hand": false,
+            "sofosbuvir": 200
+        },
+        {
+            "ledipasvir": 90,
+            "on hand": false,
+            "sofosbuvir": 400
+        }
+    ],
+    "hepsera": [
+        {
+            "adefovir": 10,
+            "on hand": false
+        }
+    ],
+    "intelence": [
+        {
+            "etravirine": 10,
+            "on hand": false
+        },
+        {
+            "etravirine": 100,
+            "on hand": false
+        },
+        {
+            "etravirine": 200,
+            "on hand": true
+        }
+    ],
+    "isentress": [
+        {
+            "on hand": true,
+            "raltegravir": 400
+        }
+    ],
+    "juluca": [
+        {
+            "dolutegravir": 50,
+            "on hand": false,
+            "rilpivirine": 25
+        }
+    ],
+    "kaletra": [
+        {
+            "lopinavir": 100,
+            "on hand": false,
+            "ritonavir": 25
+        },
+        {
+            "lopinavir": 200,
+            "on hand": true,
+            "ritonavir": 50
+        }
+    ],
+    "lexiva": [
+        {
+            "fosamprenavir": 700,
+            "on hand": false
+        }
+    ],
+    "mavyret": [
+        {
+            "glecaprevir": 100,
+            "on hand": false,
+            "pibrentasvir": 40
+        }
+    ],
+    "norvir": [
+        {
+            "on hand": true,
+            "ritonavir": 25
+        }
+    ],
+    "odefsey": [
+        {
+            "emtricitabine": 200,
+            "on hand": false,
+            "rilpivirine": 25,
+            "tenofovir alafenamide fumarate": 25
+        }
+    ],
+    "pifeltro": [
+        {
+            "doravirine": 100,
+            "on hand": true
+        }
+    ],
+    "prezcobix": [
+        {
+            "cobicistat": 150,
+            "darunavir": 800,
+            "on hand": false
+        }
+    ],
+    "preztiza": [
+        {
+            "darunavir": 600,
+            "on hand": true
+        },
+        {
+            "darunavir": 800,
+            "on hand": true
+        }
+    ],
+    "retrovir": [
+        {
+            "on hand": false,
+            "zidovudine": 100
+        },
+        {
+            "on hand": true,
+            "zidovudine": 300
+        }
+    ],
+    "reyataz": [
+        {
+            "atazanavir": 150,
+            "on hand": false
+        },
+        {
+            "atazanavir": 200,
+            "on hand": false
+        },
+        {
+            "atazanavir": 300,
+            "on hand": true
+        }
+    ],
+    "ribavirin": [
+        {
+            "on hand": true,
+            "ribavirin": 200
+        }
+    ],
+    "rukobia": [
+        {
+            "fostemsavir": 600,
+            "on hand": false
+        }
+    ],
+    "selzentry": [
+        {
+            "maraviroc": 150,
+            "on hand": false
+        },
+        {
+            "maraviroc": 300,
+            "on hand": false
+        }
+    ],
+    "sovaldi": [
+        {
+            "on hand": false,
+            "sofosbuvir": 200
+        },
+        {
+            "on hand": false,
+            "sofosbuvir": 400
+        }
+    ],
+    "stribild": [
+        {
+            "cobicistat": 150,
+            "elvitegravir": 150,
+            "emtricitabine": 200,
+            "on hand": true,
+            "tenofovir disoproxil fumarate": 300
+        }
+    ],
+    "sustiva": [
+        {
+            "efavirenz": 50,
+            "on hand": false
+        },
+        {
+            "efavirenz": 200,
+            "on hand": true
+        },
+        {
+            "efavirenz": 600,
+            "on hand": false
+        }
+    ],
+    "symfi": [
+        {
+            "efavirenz": 600,
+            "lamivudine": 300,
+            "on hand": false,
+            "tenofovir disoproxil fumarate": 300
+        }
+    ],
+    "symfi lo": [
+        {
+            "efavirenz": 400,
+            "lamivudine": 300,
+            "on hand": false,
+            "tenofovir disoproxil fumarate": 300
+        }
+    ],
+    "symtuza": [
+        {
+            "cobicistat": 150,
+            "darunavir": 800,
+            "emtricitabine": 200,
+            "on hand": false,
+            "tenofovir alafenamide": 10
+        }
+    ],
+    "temixys": [
+        {
+            "lamivudine": 300,
+            "on hand": false,
+            "tenofovir disoproxil fumarate": 300
+        }
+    ],
+    "tivicay": [
+        {
+            "dolutegravir": 10,
+            "on hand": false
+        },
+        {
+            "dolutegravir": 25,
+            "on hand": false
+        },
+        {
+            "dolutegravir": 50,
+            "on hand": true
+        }
+    ],
+    "triumeq": [
+        {
+            "abacavir": 600,
+            "dolutegravir": 50,
+            "lamivudine": 300,
+            "on hand": false
+        }
+    ],
+    "trizivir": [
+        {
+            "abacavir": 300,
+            "lamivudine": 150,
+            "on hand": false,
+            "zidovudine": 300
+        }
+    ],
+    "truvada": [
+        {
+            "emtricitabine": 200,
+            "on hand": false,
+            "tenofovir disoproxil fumarate": 300
+        }
+    ],
+    "tybost": [
+        {
+            "cobicistat": 150,
+            "on hand": true
+        }
+    ],
+    "vemlidy": [
+        {
+            "on hand": true,
+            "tenofovir alafenamide fumarate": 25
+        }
+    ],
+    "videx": [
+        {
+            "didanosine": 200,
+            "on hand": false
+        },
+        {
+            "didanosine": 250,
+            "on hand": false
+        },
+        {
+            "didanosine": 400,
+            "on hand": false
+        }
+    ],
+    "viekira pak": [
+        {
+            "dasabuvir": 250,
+            "ombitasvir": 12.5,
+            "on hand": false,
+            "paritaprevir": 75,
+            "ritonavir": 50
+        }
+    ],
+    "viracept": [
+        {
+            "nelfinavir": 250,
+            "on hand": false
+        },
+        {
+            "nelfinavir": 625,
+            "on hand": false
+        }
+    ],
+    "viramune": [
+        {
+            "nevirapine": 200,
+            "on hand": true
+        }
+    ],
+    "viread": [
+        {
+            "on hand": true,
+            "tenofovir disoproxil fumarate": 300
+        }
+    ],
+    "vosevi": [
+        {
+            "on hand": false,
+            "sofosbuvir": 400,
+            "velpatasvir": 100,
+            "voxilaprevir": 100
+        }
+    ],
+    "zepatier": [
+        {
+            "elbasvir": 50,
+            "grazoprevir": 100,
+            "on hand": false
+        }
+    ],
+    "zerit": [
+        {
+            "on hand": false,
+            "stavudine": 15
+        },
+        {
+            "on hand": false,
+            "stavudine": 20
+        },
+        {
+            "on hand": false,
+            "stavudine": 30
+        },
+        {
+            "on hand": false,
+            "stavudine": 40
+        }
+    ],
+    "ziagen": [
+        {
+            "abacavir": 300,
+            "on hand": true
+        }
+    ]
+}
