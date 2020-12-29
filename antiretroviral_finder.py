@@ -224,7 +224,7 @@ def main():
     while True:
         try:
             show_title()
-            # test with triumeq, biktarvy, preztiza, symtuza FIXME triumeq broken
+            # test with triumeq, biktarvy, preztiza, symtuza
             user_search = get_user_search(drug_library)
             if user_search:
                 find_parts(drug_library, user_search)
